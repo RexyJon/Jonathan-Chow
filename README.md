@@ -22,7 +22,7 @@ Panel personal interactivo que organiza mi información por áreas, con una visu
 Prototipo UX/UI con alertas de medicación, historial y reportes, contacto de confianza, estimulación cognitiva y botón SOS de emergencia. Lideré el frontend en un proyecto grupal.
 
 **Demo web:** https://vita-sos.vercel.app/
-**APK para Android:** en la sección [Releases](https://github.com/RexyJon/HealtTech/releases/tag/v1.0) de este repositorio.
+**APK para Android:** en la sección [Releases](https://github.com/RexyJon/HealtTech/releases/tag/v1.0)
 
 **Tecnologías:** Next.js · TypeScript · Tailwind CSS · accesibilidad WCAG
 
